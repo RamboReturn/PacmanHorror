@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Git/PacmanHorror/PacmanHorror/Content/Blueprint/BP_PacGum.uasset",
+				"D:/Git/PacmanHorror/PacmanHorror/Content/Blueprint/BP_PacGum_Parent.uasset",
+				"D:/Git/PacmanHorror/PacmanHorror/Content/Blueprint/BP_Pacman.uasset",
+				"D:/Git/PacmanHorror/PacmanHorror/Content/Blueprint/BP_LittlePacGum.uasset",
+				"D:/Git/PacmanHorror/PacmanHorror/Content/Blueprint/BP_BigPacGum.uasset",
+				"D:/Git/PacmanHorror/PacmanHorror/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
