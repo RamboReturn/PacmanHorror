@@ -10,7 +10,8 @@
 				"D:/Git/PacmanHorror/PacmanHorror/Content/Blueprint/BP_Pacman.uasset",
 				"D:/Git/PacmanHorror/PacmanHorror/Content/Blueprint/BP_LittlePacGum.uasset",
 				"D:/Git/PacmanHorror/PacmanHorror/Content/Blueprint/BP_BigPacGum.uasset",
-				"D:/Git/PacmanHorror/PacmanHorror/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"D:/Git/PacmanHorror/PacmanHorror/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Git/PacmanHorror/PacmanHorror/Content/Blueprint/AIC_Pacman.uasset"
 			]
 		}
 	]
