@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"H:/Users/ano/Documents/GitHub/PacmanHorror/PacmanHorror/Content/ThirdPerson/Maps/Level_TrissTest.umap",
+				"H:/Users/ano/Documents/GitHub/PacmanHorror/PacmanHorror/Content/Blueprint/BP_Pacman.uasset",
 				"D:/Git/PacmanHorror/PacmanHorror/Content/Blueprint/BP_PacGum.uasset",
 				"D:/Git/PacmanHorror/PacmanHorror/Content/Blueprint/BP_PacGum_Parent.uasset",
 				"D:/Git/PacmanHorror/PacmanHorror/Content/Blueprint/BP_Pacman.uasset",
