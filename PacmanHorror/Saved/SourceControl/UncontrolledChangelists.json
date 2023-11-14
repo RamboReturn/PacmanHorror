@@ -11,7 +11,26 @@
 				"D:/Git/PacmanHorror/PacmanHorror/Content/Blueprint/BP_LittlePacGum.uasset",
 				"D:/Git/PacmanHorror/PacmanHorror/Content/Blueprint/BP_BigPacGum.uasset",
 				"D:/Git/PacmanHorror/PacmanHorror/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"D:/Git/PacmanHorror/PacmanHorror/Content/Blueprint/AIC_Pacman.uasset"
+				"D:/Git/PacmanHorror/PacmanHorror/Content/Blueprint/AIC_Pacman.uasset",
+				"D:/Git/PacmanHorror/PacmanHorror/Content/L_Game.umap",
+				"D:/Git/PacmanHorror/PacmanHorror/Content/Material/M_Floor.uasset",
+				"D:/Git/PacmanHorror/PacmanHorror/Content/Material/M_Enviro.uasset",
+				"D:/Git/PacmanHorror/PacmanHorror/Content/Texture/T_Walls_BaseColor.uasset",
+				"D:/Git/PacmanHorror/PacmanHorror/Content/Material/M_Wall.uasset",
+				"D:/Git/PacmanHorror/PacmanHorror/Content/Material/MI_Wall.uasset",
+				"D:/Git/PacmanHorror/PacmanHorror/Content/Mesh/Walls_Wall_C.uasset",
+				"D:/Git/PacmanHorror/PacmanHorror/Content/Mesh/Walls_1__Wall_C.uasset",
+				"D:/Git/PacmanHorror/PacmanHorror/Content/Mesh/Walls_1__Wall_B.uasset",
+				"D:/Git/PacmanHorror/PacmanHorror/Content/Mesh/Walls_1__Wall_A.uasset",
+				"D:/Git/PacmanHorror/PacmanHorror/Content/Mesh/Walls_1__Wall_D.uasset",
+				"D:/Git/PacmanHorror/PacmanHorror/Content/Texture/T_Carpet_BaseColor.uasset",
+				"D:/Git/PacmanHorror/PacmanHorror/Content/Texture/T_Carpet_ORM.uasset",
+				"D:/Git/PacmanHorror/PacmanHorror/Content/Texture/T_Carpet_Normal.uasset",
+				"D:/Git/PacmanHorror/PacmanHorror/Content/Material/MI_Carpet.uasset",
+				"D:/Git/PacmanHorror/PacmanHorror/Content/Blueprint/BP_GameOver.uasset",
+				"D:/Git/PacmanHorror/PacmanHorror/Content/Blueprint/WBP_Victory.uasset",
+				"D:/Git/PacmanHorror/PacmanHorror/Content/Blueprint/WBP_GameOver.uasset",
+				"D:/Git/PacmanHorror/PacmanHorror/Content/L_Menu.umap"
 			]
 		}
 	]
